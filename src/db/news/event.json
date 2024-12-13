@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "imgNumber": 1,
+    "title": "1960 야시장",
+    "period": "2024.12.09 ~ 12.13",
+    "isExpired": false
+  },
+  {
+    "id": 2,
+    "imgNumber": 2,
+    "title": "신규가입 웰컴쿠폰",
+    "period": "",
+    "isExpired": false
+  },
+  {
+    "id": 3,
+    "imgNumber": 3,
+    "title": "신규 매장 배달비 무료",
+    "period": "",
+    "isExpired": false
+  },
+  {
+    "id": 4,
+    "imgNumber": 4,
+    "title": "새해맞이 선물세트",
+    "period": "2024.12.21 ~ 2025.01.26",
+    "isExpired": false
+  },
+  {
+  "id": 5,
+  "imgNumber": 5,
+  "title": "재단장 기념 첫구매 100원",
+  "period": "2024.12.01 ~ 2025.02.29",
+  "isExpired": false
+},
+{
+  "id": 6,
+  "imgNumber": 6,
+  "title": "크리스마스 포인트 2배 적립",
+  "period": "2024.12.24 ~ 12.25",
+  "isExpired": false
+},
+{
+  "id": 7,
+  "imgNumber": 7,
+  "title": "청년마켓몰 추석 선물세트 OPEN",
+  "period": "2024.09.07 ~ 09.17",
+  "isExpired": true
+},
+{
+  "id": 8,
+  "imgNumber": 8,
+  "title": "K관광마켓 10선 X 전통주 The Korean Nights",
+  "period": "2024.08.16 ~ 08.18",
+  "isExpired": true
+},
+{
+  "id": 9,
+  "imgNumber": 9,
+  "title": "None",
+  "period": "None",
+  "isExpired": true
+}
+]

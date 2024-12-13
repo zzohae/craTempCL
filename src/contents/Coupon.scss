@@ -1,0 +1,204 @@
+// 기본 스타일
+.card-body {
+  border-radius: 5px;
+
+  .card-title {
+    font-size: 1.625rem;
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 10px;
+    padding: 1.25rem 0;
+
+    @media (max-width: 991px) {
+      padding: 0;
+    }
+  }
+
+  .card-text {
+    font-size: 1.375rem;
+    color: #666;
+    display: inline-block;
+
+    @media (max-width: 991px) {
+      display: block;
+      padding-bottom: 1.25rem;
+    }
+  }
+}
+
+// 레이아웃
+.row {
+  display: flex;
+  flex-wrap: wrap;
+
+  @media (max-width: 991px) {
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.col {
+  flex: 1 1 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+
+  @media (max-width: 991px) {
+    flex: 1 1 50%;
+  }
+}
+
+// 버튼 스타일
+.container {
+  .button-common {
+    width: 100%;
+    margin-top: 1.25rem;
+    background-color: #fff;
+    border: 2px solid #214aee;
+    color: #333;
+    font-size: 1rem;
+    padding: 0.625rem 1.25rem;
+    border-radius: 5px;
+
+    &:hover {
+      background-color: #214aee;
+      color: #fff;
+    }
+  }
+
+  // 버튼 숨기기/보이기
+  .button-toggle {
+    color: #666;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 0;
+
+    &.active {
+      color: #333;
+    }
+
+    i {
+      color: #214aee;
+      margin-left: 10px;
+      font-size: 1.25rem;
+      transition: transform 0.3s ease;
+    }
+
+    &.active i {
+      transform: rotate(90deg);
+    }
+  }
+}
+
+// 쿠폰 안내 내용
+.box-notice {
+  font-size: 1rem;
+  margin-top: 1.25rem;
+
+  @media (max-width: 991px) {
+    font-size: 0.875rem;
+  }
+
+  .box-notice__fence {
+    padding: 1.25rem;
+    border-radius: 5px;
+    border: 1px solid #d2d2d2;
+
+    .box-notice__title {
+      font-weight: bold;
+      font-size: 1.25rem;
+      margin-bottom: 0.625rem;
+    }
+
+    .list-bullet {
+      list-style-type: disc;
+      padding-left: 1.5rem;
+      margin: 0;
+
+      @media (max-width: 991px) {
+        padding-left: 1rem;
+      }
+
+      .list-bullet__item {
+        margin-bottom: 0.625rem;
+        display: flex;
+
+        @media (max-width: 991px) {
+          display: block;
+        }
+
+        .title {
+          font-weight: bold;
+          margin-right: 1.25rem;
+
+          @media (max-width: 991px) {
+            margin-right: 0.5rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+// 모달 스타일
+.modal-header .modal-title {
+  font-size: 1.325rem;
+  font-weight: bold;
+}
+
+.modal-body {
+  font-size: 1rem;
+  text-align: center;
+}
+
+.modal-footer .btn-secondary {
+  border: 1px solid #214aee;
+  background-color: #fff;
+  color: #333;
+  font-size: 0.9rem;
+  padding: 0.625rem 1.5rem;
+  border-radius: 5px;
+
+  &:hover {
+    border: 2px solid #214aee;
+    background-color: #214aee;
+    color: #fff;
+  }
+}
+
+body.modal-open {
+  overflow: visible !important;
+  padding-right: 0px !important;
+}
+
+// 랜덤쿠폰
+.custom-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+
+  li {
+    margin-bottom: 0.5rem;
+    font-size: 0.85rem;
+    color: #333;
+  }
+}
+
+.box-column {
+  margin: 0 2rem;
+
+  @media (max-width: 991px) {
+    margin: 0;
+  }
+}
+
+.image-random {
+  margin: 0 auto;
+  width: 50%;
+  padding-top: 0rem;
+
+  @media (max-width: 991px) {
+    padding-top: 3.125rem;
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "navdata": {
+    "category" : {
+      "linkto" : "products",
+      "title" : "카테고리",
+      "submenu": [
+        {
+          "linkto": "mealKit",
+          "title": "밀키트"
+        },
+        {
+          "linkto": "side",
+          "title": "반찬류·양념류"
+        },
+        {
+          "linkto": "vegetables",
+          "title": "야채·채소"
+        },
+        {
+          "linkto": "fruits",
+          "title": "과일"
+        },
+        {
+          "linkto": "meat",
+          "title": "정육"
+        },
+        {
+          "linkto": "dried_seafood",
+          "title": "건어물"
+        },
+        {
+          "linkto": "dried_fruits",
+          "title": "건과류"
+        },
+        {
+          "linkto": "nuts",
+          "title": "견과류"
+        }
+      ]
+    },
+    "promotionmenu" : [
+      {
+        "linkto" : "whatsnew",
+        "title" : "신규상품",
+        "submenu": []
+      },
+      {
+        "linkto" : "news/notice",
+        "title" : "소식",
+        "submenu": [
+          {
+            "linkto": "notice",
+            "title": "공지사항"
+          },
+          {
+            "linkto": "online_event",
+            "title": "온라인 이벤트"
+          },
+          {
+            "linkto": "offline_event",
+            "title": "지역 행사"
+          },
+          {
+            "linkto": "cardnews",
+            "title": "카드뉴스"
+          }
+        ]
+      },
+      {
+        "linkto" : "aboutus/aboutinfo",
+        "title" : "청량리종합시장",
+        "submenu": [
+          {
+            "linkto": "aboutinfo",
+            "title": "청량리종합시장"
+          },
+          {
+            "linkto": "store_info",
+            "title": "매장 소개"
+          }
+        ]
+      },
+      {
+        "linkto" : "ecoupon",
+        "title" : "e-쿠폰",
+        "submenu": []
+      }
+    ]
+  },
+  "delivery": {
+    "linkto" : "delivery",
+    "title" : "배달서비스",
+    "submenu": [
+      {
+        "linkto": "",
+        "title": "우리시장 빠른배송"
+      },
+      {
+        "linkto": "baedal",
+        "title": "먹거리 배달"
+      }
+    ]
+  },
+  "mainRWDbanner" : {
+    "bannerData" : [
+      { "src" : "main_banner_02_lg.jpg", "alt" : "카카오톡 선물하기" },
+      { "src" : "main_banner_01_lg.jpg", "alt" : "베스트 리뷰 이벤트" },
+      { "src" : "main_banner_03_lg.jpg", "alt" : "캠핑 푸드 빅 세일" },
+      { "src" : "main_banner_04_lg.jpg", "alt" : "라이브커머스 초특가" },
+      { "src" : "main_banner_05_lg.jpg", "alt" : "밀키트 주간 구독" },
+      { "src" : "main_banner_06_lg.jpg", "alt" : "해외 배송비 무료" },
+      { "src" : "main_banner_07_lg.jpg", "alt" : "SNS 레시피 이벤트" }
+    ],
+    "bannerDataMd" : [
+      { "src" : "main_banner_02_md.jpg", "alt" : "카카오톡 선물하기" },
+      { "src" : "main_banner_01_md.jpg", "alt" : "베스트 리뷰 이벤트" },
+      { "src" : "main_banner_03_md.jpg", "alt" : "캠핑 푸드 빅 세일" },
+      { "src" : "main_banner_04_md.jpg", "alt" : "라이브커머스 초특가" },
+      { "src" : "main_banner_05_md.jpg", "alt" : "밀키트 주간 구독" },
+      { "src" : "main_banner_06_md.jpg", "alt" : "해외 배송비 무료" },
+      { "src" : "main_banner_07_md.jpg", "alt" : "SNS 레시피 이벤트" }
+    ],
+    "bannerDataSm" : [
+      { "src" : "main_banner_02_sm.jpg", "alt" : "카카오톡 선물하기" },
+      { "src" : "main_banner_01_sm.jpg", "alt" : "베스트 리뷰 이벤트" },
+      { "src" : "main_banner_03_sm.jpg", "alt" : "캠핑 푸드 빅 세일" },
+      { "src" : "main_banner_04_sm.jpg", "alt" : "라이브커머스 초특가" },
+      { "src" : "main_banner_05_sm.jpg", "alt" : "밀키트 주간 구독" },
+      { "src" : "main_banner_06_sm.jpg", "alt" : "해외 배송비 무료" },
+      { "src" : "main_banner_07_sm.jpg", "alt" : "SNS 레시피 이벤트" }
+    ]
+  },
+  "mdpbanner" : {
+    "bannerData": [
+      { "src" : "mdp_banner_01.jpg", "alt" : "찐빵" },
+      { "src" : "mdp_banner_02.jpg", "alt" : "야끼만두" },
+      { "src" : "mdp_banner_03.jpg", "alt" : "가래떡" },
+      { "src" : "mdp_banner_04.jpg", "alt" : "육개장" },
+      { "src" : "mdp_banner_01.jpg", "alt" : "찐빵" },
+      { "src" : "mdp_banner_02.jpg", "alt" : "야끼만두" },
+      { "src" : "mdp_banner_03.jpg", "alt" : "가래떡" },
+      { "src" : "mdp_banner_04.jpg", "alt" : "육개장" },
+      { "src" : "mdp_banner_01.jpg", "alt" : "찐빵" },
+      { "src" : "mdp_banner_02.jpg", "alt" : "야끼만두" },
+      { "src" : "mdp_banner_03.jpg", "alt" : "가래떡" },
+      { "src" : "mdp_banner_04.jpg", "alt" : "육개장" }
+    ]
+  },
+  "mainPagetitle" : [
+    {
+      "linkto": "",
+      "title": "이번 달 청량 추천!",
+      "emoji":"thumsup"
+    },
+    {
+      "linkto": "",
+      "title": "지금 가장 인기있는 상품",
+      "emoji":"cart"
+    },
+    {
+      "linkto": "",
+      "title": "실시간 쇼핑! 라이브커머스",
+      "emoji":"movie"
+    },
+    {
+      "linkto": "",
+      "title": "솔직한 리뷰, 믿을 수 있는 상품",
+      "emoji":"sparkle"
+    }
+  ],
+    "companyInfo": [
+      { "label": "회사명", "value": "청량리종합시장 상인 협동조합" },
+      { "label": "대표자", "value": "조혜현" },
+      { "label": "소재지", "value": "서울시 동대문구 홍릉로1길 68-3" },
+      { "label": "이메일", "value": "cnm365@naver.com" }
+    ],
+    "agent": [
+      { "label": "평일", "value": "09:00~18:00" },
+      { "label": "점심", "value": "12:00~13:00" },
+      { "label": "휴무", "value": "토/일/공휴일" }
+    ],
+    "support": [
+      { "label": "입금계좌 안내", "linkto": "/aboutus" },
+      { "label": "배송 안내", "linkto": "/aboutus" },
+      { "label": "구매 안전 서비스", "linkto": "/aboutus" },
+      { "label": "자주 묻는 질문", "linkto": "/aboutus" }
+    ]
+  }
+  

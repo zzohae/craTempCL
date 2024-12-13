@@ -1,0 +1,107 @@
+{
+  "navdata": {
+    "promotionmenu": [
+      {
+        "linkto": "/ecoupon",
+        "submenu": [
+          {
+            "title": "매달매달 새롭게",
+            "description": "매월 새롭고 특별한 쿠폰을 놓치지 마세요!",
+            "imgSrc": [
+              "/assets/img/coupon/coupon_col_01.jpg",
+              "/assets/img/coupon/coupon_col_02.jpg",
+              "/assets/img/coupon/coupon_col_03.jpg"
+            ],
+            "link": "/link1",
+            "buttonText": "쿠폰받기↓",
+            "mtitle": {
+              "title": "정기구독자 깜짝 선물🎁"
+            },
+            "couponDetails": [
+              {
+                "title": "지급 기간 :",
+                "data": "2024. 12. 01 ~ 12. 31"
+              },
+              {
+                "title": "유효 기간 :",
+                "data": "12월 31일. 23:59까지"
+              },
+              {
+                "title": "지급 조건 :",
+                "data": "멤버십 전용 - 최근 1년 이내 스마일배송 구매 이력이 없는 멤버십 회원 ID 당 1회 지급"
+              },
+              {
+                "title": "적용 상품 :",
+                "data": "스마일배송 전상품(일부 도서 정가제 품목 제외)"
+              }
+            ]
+          },
+          {
+            "title": "쿠폰 2",
+            "description": "설명 2",
+            "imgSrc": [
+              "/assets/img/coupon/coupon_col_01.jpg",
+              "/assets/img/coupon/coupon_col_02.jpg"
+            ],
+            "link": "/link2",
+            "buttonText": "쿠폰받기↓",
+            "mtitle": {
+              "title": "쿠폰 이벤트 2"
+            },
+            "couponDetails": [
+              {
+                "title": "지급 기간 :",
+                "data": "2024. 12. 01 ~ 12. 31"
+              },
+              {
+                "title": "유효 기간 :",
+                "data": "12월 31일. 23:59까지"
+              },
+              {
+                "title": "지급 조건 :",
+                "data": "전회원 쿠폰 - 최근 1년 이내 스마일배송 구매 이력이 없는 전회원 ID 당 1회 지급"
+              },
+              {
+                "title": "적용 상품 :",
+                "data": "스마일배송 전상품(일부 도서 정가제 품목 제외)"
+              }
+            ]
+          },
+          {
+            "title": "쿠폰 3",
+            "description": "설명 3",
+            "imgSrc": [
+              "/assets/img/coupon/coupon_vertical_01.jpg",
+              "/assets/img/coupon/coupon_vertical_01.jpg",
+              "/assets/img/coupon/coupon_vertical_02.jpg",
+              "/assets/img/coupon/coupon_vertical_02.jpg"
+            ],
+            "link": "/link3",
+            "buttonText": "쿠폰받기↓",
+            "mtitle": {
+              "title": "쿠폰 이벤트 3"
+            },
+            "couponDetails": [
+              {
+                "title": "지급 기간 :",
+                "data": "2024. 12. 01 ~ 12. 31"
+              },
+              {
+                "title": "유효 기간 :",
+                "data": "12월 31일. 23:59까지"
+              },
+              {
+                "title": "지급 조건 :",
+                "data": "특정 조건에 맞는 회원에게 지급"
+              },
+              {
+                "title": "적용 상품 :",
+                "data": "스마일배송 전상품"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

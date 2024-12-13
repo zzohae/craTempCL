@@ -1,0 +1,82 @@
+[
+  {
+    "reviewID": "1",
+    "productID": "1",
+    "userID": "asdfasdf",
+    "rating": "5",
+    "reviewContent": "정말 긴 리뷰 내용 정말 긴 리뷰 내용 정말 긴 리뷰 내용 정말 긴 리뷰 내용 정말 긴 리뷰 내용 정말 긴 리뷰 내용 정말 긴 리뷰 내용 정말 긴 리뷰 내용 정말 긴 리뷰 내용 정말 긴 리뷰 내용 정말 긴 리뷰 내용 정말 긴 리뷰 내용 정말 긴 리 뷰 내용",
+    "src": "",
+    "likes": "5",
+    "createdAt": "2024-11-21"
+  },
+  {
+    "reviewID": "2",
+    "productID": "1",
+    "userID": "wlqrkrhtlvek",
+    "rating": "4.5",
+    "reviewContent": "유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요! 유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요! 유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요!",
+    "src": "",
+    "likes": "3",
+    "createdAt": "2024-11-21"
+  },
+  {
+    "reviewID": "3",
+    "productID": "1",
+    "userID": "badahae",
+    "rating": "4",
+    "reviewContent": "유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요! 유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요! 유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요!",
+    "src": "",
+    "likes": "2",
+    "createdAt": "2024-11-21"
+  },
+  {
+    "reviewID": "4",
+    "productID": "2",
+    "userID": "ehen123",
+    "rating": "5",
+    "reviewContent": "유튜버 OO님의 감바스 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상으로 괜찮았어요!",
+    "src": "",
+    "likes": "0",
+    "createdAt": "2024-11-21"
+  },
+  {
+    "reviewID": "5",
+    "productID": "2",
+    "userID": "gimsh7131",
+    "rating": "3",
+    "reviewContent": "제 소울푸드😍 여러 개 사서 주변에도 나눠주고있습니당ㅋㅋ",
+    "src": "",
+    "likes": "0",
+    "createdAt": "2024-11-21"
+  },
+  {
+    "reviewID": "6",
+    "productID": "3",
+    "userID": "4thdraw",
+    "rating": "3.5",
+    "reviewContent": "유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요! 유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요! 유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요!",
+    "src": "",
+    "likes": "0",
+    "createdAt": "2024-11-21"
+  },
+  {
+    "reviewID": "7",
+    "productID": "5",
+    "userID": "gohomewant",
+    "rating": "4",
+    "reviewContent": "유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요! 유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요! 유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요!",
+    "src": "",
+    "likes": "0",
+    "createdAt": "2024-11-21"
+  },
+  {
+    "reviewID": "8",
+    "productID": "2",
+    "userID": "ddAngbeol",
+    "rating": "4.5",
+    "reviewContent": "유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요! 유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요! 유튜버 OO님의 명란 덮밥 레시피를 해 먹고 싶어서 구매해봤는데 기대 이상이네요!",
+    "src": "",
+    "likes": "0",
+    "createdAt": "2024-11-21"
+  }
+]
